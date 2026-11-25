@@ -1,0 +1,25 @@
+Order_ID,Product,Category,Quantity,Price
+O1001,Laptop,Electronics,2,55000
+O1002,Wireless Earbuds,Electronics,6,2499
+O1003,Running Shoes,Footwear,3,3499
+O1004,Python Crash Course,Books,10,599
+O1005,Smartphone,Electronics,4,18999
+O1006,Denim Jacket,Fashion,2,2799
+O1007,Yoga Mat,Sports,5,899
+O1008,Mixer Grinder,Home & Kitchen,3,3299
+O1009,T-Shirt,Fashion,12,499
+O1010,Novel Collection,Books,4,1250
+O1011,Smartwatch,Electronics,3,7999
+O1012,Football,Sports,6,799
+O1013,Air Fryer,Home & Kitchen,2,6499
+O1014,Sandals,Footwear,8,699
+O1015,Laptop,Electronics,1,55000
+O1016,Wireless Earbuds,Electronics,3,2499
+O1017,Jeans,Fashion,5,1799
+O1018,Dumbbell Set,Sports,2,4500
+O1019,Cookware Set,Home & Kitchen,4,2999
+O1020,Running Shoes,Footwear,2,3499
+O1021,Smartphone,Electronics,2,18999
+O1022,T-Shirt,Fashion,9,499
+O1023,Notebook Pack,Stationery,25,150
+O1024,Gel Pens,Stationery,40,60
